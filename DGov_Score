@@ -1,6 +1,6 @@
-# DGov Score
+#DGov Score
 
-## Preamble
+##Preamble
 
 The DGov Score is a further formalization of preliminary research conducted in Project Statis during June - July 2019, and inspired by the DeFi Score by Consenys Researchers.
 
@@ -10,7 +10,7 @@ The name "DGov Score" and the continuation of work from Project Statis was intia
 
 You may find the DGov Foundation link below in references.
 
-## Initial Formalization
+##Initial Formalization
 
 We have initially formalized the DGov Score into 9 categories, with components under each category:
 
@@ -37,13 +37,13 @@ Example Membership components:
 - Membership Classes;
 - …
 
-## Eventual Goals
+##Eventual Goals
 
 After formalizing the DGov Score framework, we intend to turn our findings into a full-fledged paper that should be easily digestable for others to use the DGov Score framework.
 
 We expect the paper to go over our choices of categories and components, and a sample analysis of a blockchain project.
 
-## References
+#References
 
 1. https://forum.dgov.foundation/t/any-interest-in-a-dgov-score-framework/112?u=char
 2. https://github.com/ConsenSys/defi-score/blob/master/whitepaper.md 
